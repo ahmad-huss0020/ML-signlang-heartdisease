@@ -68,18 +68,7 @@ This repository presents a machine learning journey completed as part of a unive
   - CNNs for sign recognition
   - Sequence modeling for translation
 
----
 
-## 📂 Project Structure
-
-```
-├── Iteration_1_Heart_Disease.ipynb
-├── Iteration_2_Image_Autoencoders_Clustering.ipynb
-├── Iteration 3 & 4.ipynb
-├── Iteration 1 and 2.docx
-├── Projets de Machine Learning.pdf
-└── README.md
-```
 
 ---
 
